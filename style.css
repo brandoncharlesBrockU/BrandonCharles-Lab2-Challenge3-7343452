@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    margin-top: 15%;
+    width: 500px;
+    height: 200px;
+}
